@@ -20,4 +20,4 @@ IP2由[paper](https://user.qzone.qq.com/3129280891 "跳转到他的QQ空间")维
 | 论坛      | https://bbs.monday-ovo.eu.org      |
 | 检测 | https://status.monday-ovo.top      |  
 
-<Vssue :title="$title" />
+<Vssue/>
