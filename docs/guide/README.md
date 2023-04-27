@@ -1,6 +1,8 @@
 # 介绍
 ## 说明
 该文档使用VuePress来驱动的，你可以在[Github](https://github.com/dawangfangpi/docs "打开文档的Github")提交。  
+### 我提交的Issue为啥被关闭了   
+请在提交之前检测是否有没有重复的，如果是过于简单的我们直接关闭。   
 
 
 ## 服务器IP
@@ -19,5 +21,3 @@ IP2由[paper](https://user.qzone.qq.com/3129280891 "跳转到他的QQ空间")维
 | 官网          | https://www.monday-ovo.top |
 | 论坛      | https://bbs.monday-ovo.eu.org      |
 | 检测 | https://status.monday-ovo.top      |  
-
-<Vssue/>
