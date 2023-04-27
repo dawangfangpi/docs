@@ -2,18 +2,6 @@ module.exports = {
     title: 'Monday 文档',
     description: '文档',
     themeConfig: {
-      plugins: {
-        '@vssue/vuepress-plugin-vssue': {
-          // 设置 `platform` 而不是 `api`
-          platform: 'github-v4',
-    
-          // 其他的 Vssue 配置
-          owner: 'OWNER_OF_REPO',
-          repo: 'NAME_OF_REPO',
-          clientId: '3099e1787c068d641c7c',
-          clientSecret: '2c614fe6e4bb1df984ea168529d62eda461d1b16',
-        },
-      },
         nav: [
             { text: '首页', link: '/' },
             {
