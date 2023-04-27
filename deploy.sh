@@ -6,6 +6,8 @@ set -e
 
 # 生成静态文件
 
+npm install -g yarn
+yarn add -D vuepress
 npm run docs:build
 
 # 进入生成的文件夹
