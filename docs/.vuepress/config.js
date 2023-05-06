@@ -9,13 +9,7 @@ module.exports = {
                 text: '指南',
                 link: '/guide/'
               },
-            { 
-                text: '链接', 
-                items: [
-                    { text: 'Github', link: 'https://github.com/dawangfangpi/docs' },
-                    { text: '官网', link: 'https://www.monday-ovo.top' }
-                ]
-            }
+            { text: 'Github', link: 'https://github.com/dawangfangpi/docs' },
         ],
         sidebar: [
             {
