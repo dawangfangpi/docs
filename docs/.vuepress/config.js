@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Monday 文档',
     description: '文档',
+    editLinks: true,
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
