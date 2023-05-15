@@ -15,7 +15,7 @@ IP2: mc2.monday-ovo.top
 :::   
 ::: warning
 IP2由[paper](https://user.qzone.qq.com/3129280891 "跳转到他的QQ空间")维护,
-该地址已经很久没有进行更改
+该地址已经停止使用
 :::   
 
 
