@@ -14,7 +14,7 @@ IP2: mc2.monday-ovo.top
 基岩版则需要使用最新版本。
 :::   
 ::: warning
-IP2由[paper](https://user.qzone.qq.com/3129280891 "跳转到他的QQ空间")维护,
+IP2由[Paper_Xiang](https://user.qzone.qq.com/3129280891 "跳转到他的QQ空间")维护,
 该地址已经停止使用
 :::   
 
