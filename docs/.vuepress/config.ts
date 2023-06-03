@@ -2,6 +2,16 @@ import { defineConfig } from 'vuepress/config'
 import {Sidebar4ZH} from './config/index'
 
 export default defineConfig(ctx => ({
+head: [
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-1049233927634968",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+    ]
+  ]
     title: 'Monday 文档',
     description: '文档',
     editLinks: true,
