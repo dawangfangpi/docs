@@ -11,7 +11,7 @@ head: [
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
       }
     ]
-  ]
+  ],
     title: 'Monday 文档',
     description: '文档',
     editLinks: true,
