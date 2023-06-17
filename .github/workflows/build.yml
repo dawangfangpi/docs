@@ -27,4 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
+        run: yarn
+
+      - name: Run a one-line script
         run: yarn run dev
