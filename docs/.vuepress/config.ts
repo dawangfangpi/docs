@@ -22,7 +22,7 @@ export default defineConfig(ctx => ({
         docsRepo: 'dawangfangpi/docs',
         docsBranch: 'master',
         editLinks: true,
-        editLinkText: '帮助我们改善此页面！',
+        editLinkText: '在 GitHub 上编辑此页',
         sidebar: Sidebar4ZH
     }
 }))
