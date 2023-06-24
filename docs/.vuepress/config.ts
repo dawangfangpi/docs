@@ -16,8 +16,13 @@ export default defineConfig(ctx => ({
               text: '规则',
               link: '/ly/'
             },
-            { text: 'Github', link: 'https://github.com/dawangfangpi/docs' },
         ],
+        repo: 'dawangfangpi/docs',
+        repoLabel: 'Github',
+        docsRepo: 'dawangfangpi/docs',
+        docsBranch: 'master',
+        editLinks: true,
+        editLinkText: '帮助我们改善此页面！',
         sidebar: Sidebar4ZH
     }
 }))
