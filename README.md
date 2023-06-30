@@ -17,4 +17,4 @@ yarn
 yarn run docs:dev
 ```
 
-打开 [http://localhost:3000](http://localhost:3000) 来查看本地内容
+打开 [http://localhost:8080](http://localhost:8080) 来查看本地内容
