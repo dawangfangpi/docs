@@ -3,7 +3,7 @@ import {Sidebar4ZH} from './config/index'
 
 export default defineConfig(ctx => ({
     title: 'Monday 帮助文档',
-    description: '要认真读完哦！❤',
+    description: '文档',
     editLinks: true,
     themeConfig: {
         nav: [
