@@ -6,8 +6,8 @@ export function getgzSidebar (groupA): SidebarConfigArray {
         title: groupA,
         collapsable: false,
         children: [
-          '',
-          'ysly'
+          'ysly',
+          ''
         ]
       },
     ]
