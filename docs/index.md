@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.png
-actionText: 快速上手 →
+actionText: 开始学习→
 actionLink: /guide/
-footer: Copyright © 2018-2023  Monday
+footer: Copyright © 2021-2023  Monday
 ---
