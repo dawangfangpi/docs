@@ -6,7 +6,7 @@
 
 安装yarn,node.js版本至少14.x及以上
 
-1.安装依赖
+1.安装依赖e
 
 ```bash
 yarn

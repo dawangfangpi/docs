@@ -5,6 +5,6 @@ import {
 } from './shared'
 
 export const Sidebar4ZH: SidebarConfig4Multiple = {
-  '/guide/': getGuideSidebar('指南'),
-  '/ly/': getgzSidebar('规则'),
+  '/guide/': getGuideSidebar('教程'),
+  '/ly/': getgzSidebar('协议'),
 }
