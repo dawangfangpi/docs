@@ -2,8 +2,8 @@ import { defineConfig } from 'vuepress/config'
 import {Sidebar4ZH} from './config/index'
 
 export default defineConfig(ctx => ({
-    title: 'Monday 文档',
-    description: '文档',
+    title: 'Monday 帮助文档',
+    description: '希望能帮到你~',
     editLinks: true,
     themeConfig: {
         nav: [
