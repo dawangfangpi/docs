@@ -1,4 +1,4 @@
-# Monday文档
+# Monday-MC 服务器文档
 # docs.monday-ovo.top
 
 ## 开发者
