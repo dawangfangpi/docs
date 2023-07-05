@@ -7,7 +7,7 @@ export function getgzSidebar (groupA): SidebarConfigArray {
         collapsable: false,
         children: [
           '',
-          'basic-config'
+          'ysly'
         ]
       },
     ]
