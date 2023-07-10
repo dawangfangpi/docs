@@ -6,7 +6,7 @@
 
 
 ## 服务器IP
-IP: mc.monday-ovo.top  
+IP: mc.monday-ovo.top/monday-ovo.eu.org  
 [使用此链接添加基岩版服务器](minecraft://?addExternalServer=Monday|play.simpfun.vip:24458 "跳转添加服务器")。
 ::: tip
 你需要使用[Minecraft](https://www.minecraft.net "跳转到Minecraft官网")的1.8-1.20.1,
