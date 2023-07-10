@@ -2,12 +2,11 @@
 
 ## 传送类  
 
-### /tpa
+### /hub
  hub命令可以回到主城服务器  
  
  用法:/hub      
 
-## 传送类  
 
 ### /tpa
  tpa命令可以向其他玩家发送传送请求  
@@ -29,7 +28,7 @@
  用法: /back  
 
 ### /spawn
- spawn命令可以将您传送回主城
+ spawn命令可以将您传送回生存服主城
 
  用法:/spawn
 
@@ -37,3 +36,16 @@
  此命令可以使您在主世界中随机传送
  
  用法: /brtp world
+
+## 点歌  
+
+::: tip
+需下载[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=p-NE3msaa3L1uh-8MUtUyOYhoM9eZOae&jump_from=webapi&authKey=Ngwgz2I+yQj7o2ZJKWW4cutEni+ShAtLHZ1iYv3JygR+bZRtvLTbE4PdUgBezxAc "一键直达")内听歌Mod来使用此功能
+:::    
+
+
+### /zm search
+
+ 选择音乐源，并搜索歌曲，列出歌曲以供玩家快速点歌/播放
+
+ 例如: /zm search netease 只因你太美
