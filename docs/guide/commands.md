@@ -52,6 +52,24 @@
 
  例如: /zm search netease 只因你太美
 
+## [播放](https://m.zplu.cc/v2/#/zh-cn/?id=播放)
+
+通过歌名搜索一个音乐，直接播放
+
+### [命令](https://m.zplu.cc/v2/#/zh-cn/?id=命令-1)
+
+```
+/zm play [搜索源] [歌名]
+```
+
+[搜索源说明]
+
+### [示例](https://m.zplu.cc/v2/#/zh-cn/?id=示例)
+
+```
+/zm play netease 你的猫咪
+```
+
 ## 背包
 
 ### /bag open
