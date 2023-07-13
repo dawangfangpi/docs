@@ -9,3 +9,9 @@ support@monday-ovo.top
 有任何想法和问题可随时联系腐竹！
 腐竹Paper如果不在可以联系腐竹jdnjk
 :::
+
+### 举报
+
+`/report 玩家 原因`
+
+来进行举报
