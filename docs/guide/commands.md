@@ -37,38 +37,122 @@
 
  用法: /brtp world
 
-## 点歌  
+## 音乐 
 
 ::: tip
-需下载[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=p-NE3msaa3L1uh-8MUtUyOYhoM9eZOae&jump_from=webapi&authKey=Ngwgz2I+yQj7o2ZJKWW4cutEni+ShAtLHZ1iYv3JygR+bZRtvLTbE4PdUgBezxAc "一键直达")内听歌Mod来使用此功能
+需下载[QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=p-NE3msaa3L1uh-8MUtUyOYhoM9eZOae&jump_from=webapi&authKey=Ngwgz2I+yQj7o2ZJKWW4cutEni+ShAtLHZ1iYv3JygR+bZRtvLTbE4PdUgBezxAc "一键直达")内听歌Mod(Zmusic)来使用此功能
 :::    
 
-
-### /music search
-
- 选择音乐源，并搜索歌曲，列出歌曲以供玩家快速点歌/播放
-
-(目前仅支持163/netease=wy)
-
- 例如: /zm search netease 只因你太美
-
-## [播放](https://m.zplu.cc/v2/#/zh-cn/?id=播放)
+### 播放
 
 通过歌名搜索一个音乐，直接播放
 
-### [命令](https://m.zplu.cc/v2/#/zh-cn/?id=命令-1)
+命令:/zm play 搜索源 歌名
+
+示例:/zm play netease 你的猫咪
+
+### 点歌
+
+通过歌名搜索一个音乐，全服发送后，玩家点击播放
+
+命令
 
 ```
-/zm play [搜索源] [歌名]
+/zm music [搜索源] [歌名]
 ```
 
-[搜索源说明]
+[搜索源说明](https://m.zplu.cc/v2/#/zh-cn/?id=搜索源说明) [歌名ID化说明](https://m.zplu.cc/v2/#/zh-cn/?id=歌名id化说明)
 
-### [示例](https://m.zplu.cc/v2/#/zh-cn/?id=示例)
+示例
 
 ```
-/zm play netease 你的猫咪
+/zm music netease 你的猫咪
 ```
+
+### 搜索
+
+通过歌名搜索一个音乐，返回十首音乐的列表
+
+命令
+
+```
+/zm search [搜索源] [歌名]
+```
+
+[搜索源说明](https://m.zplu.cc/v2/#/zh-cn/?id=搜索源说明) [歌名ID化说明](https://m.zplu.cc/v2/#/zh-cn/?id=歌名id化说明)
+
+示例
+
+```
+/zm search netease 你的猫咪
+```
+
+### 歌单
+
+通过导入歌单存储在服务器，方便播放歌单。
+
+命令
+
+```
+/zm playlist [平台] [子命令]
+```
+
+目前支持以下平台
+
+- netease/163 - 网易云音乐
+
+如果平台为type 则为设置歌单播放方式.
+目前支持
+
+- normal - 顺序播放
+- loop - 循环播放
+- random - 随机播放
+
+示例: `/zm playlist type random`
+
+如果平台为global 则为全局歌单模式.
+
+- 子命令与普通模式相同
+
+示例: `/zm playlist global netease list`
+
+`子命令` 对应平台的子命令
+
+- ```
+  import
+  ```
+
+   
+
+  通过歌单链接导入歌单
+
+  - 参数
+    - `歌单链接` 对应平台的歌单链接
+
+- `list` 检索指定平台的歌单列表
+
+- ```
+  play
+  ```
+
+   
+
+  通过歌单ID播放歌单(可用list获取)
+
+  - 参数
+    - `歌单ID` 指定平台的歌单ID
+
+示例
+
+导入:
+
+- `/zm playlist 163 import https://music.163.com/#/playlist?id=363046232`
+
+播放:
+
+- `/zm playlist 163 play 363046232`
+
+
 
 ## 背包
 
