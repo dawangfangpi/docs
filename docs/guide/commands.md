@@ -278,4 +278,14 @@ balancetop  -  查询余额排行榜
 
 第二个木牌添加内容 "‘[更多使用者]’ ‘[所有人]’".
 
-"[所有人]"标签将允许所有人访问容器.请更改.
+
+
+## 动作
+
+`/sit (/gsit)` -> 坐在方块上
+`/lay (/glay)` -> 躺在方块上
+`/bellyflop (/gbellyflop)` -> 在方块上翻滚
+`/spin (/gspin)` -> 在方块上旋转
+`/crawl (/gcrawl`) -> 趴在方块上
+`/sit toggle/playertoggle` -> 切换是否能右键坐在方块或玩家上
+`/gsitreload (/gsitrl)` -> 重载插件配置
