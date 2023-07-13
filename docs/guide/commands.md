@@ -319,3 +319,15 @@ balancetop  -  查询余额排行榜
 `/sit toggle/playertoggle` -> 切换是否能右键坐在方块或玩家上
 
 `/gsitreload (/gsitrl)` -> 重载插件配置
+
+
+
+## 杂项
+
+### /asb toggle
+
+关闭/打开计分板
+
+### /sf guide
+
+获得粘液科技指南
