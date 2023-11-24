@@ -1,6 +1,8 @@
 # Monday-MC 服务器文档
 # docs.monday-ovo.top
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd67757a-f444-45bf-8534-8adf2697e8d5/deploy-status)](https://app.netlify.com/sites/clinquant-genie-edf9a5/deploys)
+
 ## 开发者
 ### 使用
 
