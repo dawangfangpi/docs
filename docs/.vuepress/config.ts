@@ -20,6 +20,7 @@ export default defineConfig(ctx => ({
         repo: 'dawangfangpi/docs',
         repoLabel: 'Github',
         docsRepo: 'dawangfangpi/docs',
+        lastUpdated: '上次更新',
         docsBranch: 'master',
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页',
