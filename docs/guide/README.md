@@ -33,3 +33,7 @@ IP: mc.monday-ovo.top/monday-ovo.eu.org
 | 官网          | https://www.monday-ovo.top |
 | 论坛      | https://bbs.monday-ovo.eu.org      |
 | 检测 | https://status.monday-ovo.top      |  
+
+ <template>
+  <Vssue :issue-id="228" />
+</template>
