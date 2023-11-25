@@ -25,5 +25,12 @@ export default defineConfig(ctx => ({
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页',
         sidebar: Sidebar4ZH,
+        vssueConfig: {
+          platform: 'github',
+          owner: 'dawangfangpi',
+          repo: 'docs_review',
+          clientId: '{client_id}',
+          clientSecret: '{client_key}',
+        }
     }
 }))
