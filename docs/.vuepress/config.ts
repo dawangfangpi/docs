@@ -24,6 +24,7 @@ export default defineConfig(ctx => ({
         docsBranch: 'master',
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页',
-        sidebar: Sidebar4ZH
+        sidebar: Sidebar4ZH,
+        lastUpdated: '上次更新'
     }
 }))
