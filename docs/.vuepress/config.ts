@@ -5,11 +5,6 @@ export default defineConfig(ctx => ({
     title: 'Monday 帮助文档',
     description: '文档',
     editLinks: true,
-    algolia: {
-      apiKey: '328e575a3431fb48ea09026db382e3ee',
-      indexName: 'monday-ovo-eu'
-      appId: 'VXFWRUIH25',
-    },
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
@@ -22,6 +17,11 @@ export default defineConfig(ctx => ({
               link: '/ly/'
             },
         ],
+        algolia: {
+            apiKey: '328e575a3431fb48ea09026db382e3ee',
+            indexName: 'monday-ovo-eu'
+            appId: 'VXFWRUIH25',
+    },
         repo: 'dawangfangpi/docs',
         repoLabel: 'Github',
         docsRepo: 'dawangfangpi/docs',
