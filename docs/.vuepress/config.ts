@@ -19,7 +19,7 @@ export default defineConfig(ctx => ({
         ],
         algolia: {
             apiKey: '328e575a3431fb48ea09026db382e3ee',
-            indexName: 'monday-ovo-eu'
+            indexName: 'monday-ovo-eu',
             appId: 'VXFWRUIH25',
     },
         repo: 'dawangfangpi/docs',
