@@ -6,6 +6,22 @@ export default defineConfig(ctx => ({
     description: '文档',
     editLinks: true,
     themeConfig: {
+      plugins: [
+        [
+          '@vuepress/last-updated',
+          {
+            transformer: (timestamp, lang) => {
+              return new Date(timestamp).toLocaleDateString();
+            }
+          }
+        ],
+        [
+          'sitemap',
+          {
+            hostname: 'https://docs.monday-ovo.eu.org'
+          }
+        ]
+      ],
         nav: [
             { text: '首页', link: '/' },
             {
