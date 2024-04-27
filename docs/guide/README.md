@@ -1,18 +1,18 @@
 # 介绍
 ## 说明
 **此为本服务器的帮助文档，包含服务器各个方面的教程，希望您能认真读完左侧边栏内包含"必读"字样的教程再来游玩本服务器，以获得最佳游戏体验:tada:**
-你可以通过[爱发电](https://afdian.net/a/mc_monday)来对我们进行捐赠。
+你可以通过[爱发电](https://afdian.net/a/jdnjk)来对我们进行捐赠。
 
 
 
 
 ## 服务器IP
 IP: mc.monday-ovo.top/monday-ovo.eu.org  
-[使用此链接添加基岩版服务器](minecraft://?addExternalServer=Monday|play.simpfun.vip:24458 "跳转添加服务器")。
+~~[使用此链接添加基岩版服务器](minecraft://?addExternalServer=Monday|play.simpfun.vip:24458 "跳转添加服务器")。
 ::: tip
-你需要使用[Minecraft](https://www.minecraft.net "跳转到Minecraft官网")的1.8-1.20.4,
+你需要使用[Minecraft](https://www.minecraft.net "跳转到Minecraft官网")的1.8-1.20.5,
 基岩版则需要使用最新版本。
-:::    
+:::    ~~
 
 
 ## 登录方式
