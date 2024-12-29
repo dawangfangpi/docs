@@ -7,3 +7,6 @@
 ## 登录方式
 本服务器采用皮肤站外置登录,注册登录后才可正常游玩服务器！
 皮肤站地址：[MondaySkin](https://skin.monday-ovo.top)
+
+## 略感卡顿？
+参考[**优化指南**](https://rpg.prominence.wiki/performance-guide)!
