@@ -31,3 +31,18 @@ export function getGuideSidebar (groupA): SidebarConfigArray {
 
   return sidebar
 }
+export function getBCGSidebar (groupA): SidebarConfigArray {
+  const sidebar: SidebarConfigArray = [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '',
+        'faq',
+        'tutorial'
+      ]
+    },
+  ]
+
+  return sidebar
+}
