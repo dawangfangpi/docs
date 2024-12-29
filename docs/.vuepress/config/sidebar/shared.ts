@@ -38,7 +38,8 @@ export function getBCGSidebar (groupA): SidebarConfigArray {
       children: [
         '',
         'faq',
-        'tutorial'
+        'tutorial',
+        'mod'
       ]
     },
   ]
