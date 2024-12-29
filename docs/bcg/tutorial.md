@@ -9,4 +9,4 @@
 皮肤站地址：[MondaySkin](https://skin.monday-ovo.top)
 
 ## 略感卡顿？
-参考[**优化指南**](https://rpg.prominence.wiki/performance-guide)!
+参考[**性能指南(未汉化)**](https://rpg.prominence.wiki/performance-guide)!
