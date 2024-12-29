@@ -23,7 +23,6 @@ export function getGuideSidebar (groupA): SidebarConfigArray {
       collapsable: false,
       children: [
         '',
-        'commands',
         'gfq'
       ]
     },

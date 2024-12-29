@@ -32,10 +32,6 @@ export default defineConfig(ctx => ({
               text: '规则',
               link: '/ly/'
             },
-            {
-              text: 'BCG',
-              link: '/bcg/'
-            },
         ],
         algolia: {
             apiKey: '328e575a3431fb48ea09026db382e3ee',

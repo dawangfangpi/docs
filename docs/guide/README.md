@@ -9,21 +9,27 @@
 
 ## 服务器
 ::: warning
-服务器目前分为`小游戏`服务器和`机械动力`服务器！
+服务器目前分为`小游戏`服务器,`机械动力`和`BCG`服务器！
 :::
 ### 小游戏服务器
 IP: paperxiang.eu.org
-版本：1.8-1.21.1
-
-### 机械动力服务器
-整合包在qq群内下载
-IP: mc.monday-ovo.top
+版本：1.8-1.21.3
 
 [使用此链接添加基岩版服务器](minecraft://?addExternalServer=Monday|play.simpfun.cn:14977 "跳转添加服务器")。
 ::: tip
 你需要使用[Minecraft](https://www.minecraft.net "跳转到Minecraft官网")的1.8-1.21.3版本,
 基岩版则需要使用最新版本。
 :::  
+
+### 机械动力服务器
+整合包在QQ群内下载
+IP: mc.monday-ovo.top  
+
+### BCG服务器
+整合包在QQ群内下载
+IP: bcg.monday-ovo.top  
+服务器教程: [点击跳转](./bcg/README.md)
+
 
 
 ## 登录方式
