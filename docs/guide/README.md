@@ -28,7 +28,7 @@ IP: mc.monday-ovo.top
 ### BCG服务器
 整合包在QQ群内下载
 IP: bcg.monday-ovo.top  
-服务器教程: [点击跳转](./bcg/README.md)
+服务器教程: [点击跳转](../bcg/README.md)
 
 
 
