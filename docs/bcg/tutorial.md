@@ -8,8 +8,10 @@
 本服务器采用皮肤站外置登录,注册登录后才可正常游玩服务器！
 皮肤站地址：[MondaySkin](https://skin.monday-ovo.top)
 
-## 略感卡顿？
-参考[**性能指南(未汉化)**](https://rpg.prominence.wiki/performance-guide)!
+## 无法启动？
+如果您使用的是`2.11.1`版本的Monday-BCG客户端  
+请禁用**Rebind Narrator**、**Chunk Debug**、**EssentialMenu**、**Carpet**模组！
+
 
 ## 常用命令
 
