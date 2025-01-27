@@ -30,10 +30,10 @@ export function getGuideSidebar (groupA,groupB): SidebarConfigArray {
       title: groupB,
       collapsable: false,
       children: [
-        '/bcg/',
-        '/bcg/faq',
-        '/bcg/tutorial',
-        '/bcg/mod'
+        'bcg',
+        'faq',
+        'tutorial',
+        'mod'
       ]
     },
   ]
