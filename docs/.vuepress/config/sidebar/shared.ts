@@ -23,7 +23,8 @@ export function getGuideSidebar (groupA,groupB): SidebarConfigArray {
       collapsable: false,
       children: [
         '',
-        'gfq'
+        'gfq',
+        'help'
       ]
     },
     {
@@ -40,19 +41,3 @@ export function getGuideSidebar (groupA,groupB): SidebarConfigArray {
 
   return sidebar
 }
-/*export function getBCGSidebar (groupA): SidebarConfigArray {
-  const sidebar: SidebarConfigArray = [
-    {
-      title: groupA,
-      collapsable: false,
-      children: [
-        '',
-        'faq',
-        'tutorial',
-        'mod'
-      ]
-    },
-  ]
-
-  return sidebar
-}*/
